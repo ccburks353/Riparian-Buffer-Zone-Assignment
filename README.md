@@ -1,2 +1,2 @@
 # Riparian Buffer Zone Assignment
- quantify the effect repirian vegetation cover has of micro-invt. species richness
+ quantify the effect riparian vegetation cover has of microinvt. species richness
